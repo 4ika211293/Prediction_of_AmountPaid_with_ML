@@ -77,5 +77,5 @@ Longitude-Longitude of location
 Adding incorporate additional features such as income group, customer preferences, set of food ordered, etc., can improve the model
 
 ### Contributors
-Chynara Bektursunova, linkedin profile: https://www.linkedin.com/in/chynara-bektursunova-8a5872188/
+Chynara Bektursunova, linkedin profile: https://www.linkedin.com/in/chynara-bektursunova-8a5872188/ , 
 Ruslan Kurmanov, linkedin profile: https://www.linkedin.com/in/ruslan-kurmanov-4b9358146/
