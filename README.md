@@ -17,6 +17,18 @@ Tableau<br>
 notepad++<br>
 Input Data on cafe transactions (included in this repository as "FakeNames_DRV_20240131_final") 
 
+### Visual appearance
+
+![FakeNames_Dashboard](https://public.tableau.com/app/profile/chynara.bektursunova/viz/FakeNames_Dashboard/FakeNamesDashboard)
+
+![AmountPaid_by_Age_group_and_gender](https://public.tableau.com/views/APFULL/AgeGroupAP?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
+
+![AmountPaid_by_cities](https://public.tableau.com/shared/CJGKS3P25?:display_count=n&:origin=viz_share_link)
+
+
+
+
+
 ### Usage
 
 FakeNames_20240131_ML.ipynb: This script contains the main functionality for loading the data, preprocessing it, training the machine learning model, and making predictions. This module also provides functions for cleaning and preprocessing the raw transaction data. Contains the machine learning model used for predicting the bill amount. This script evaluates the performance of the trained model using various metrics such as RMSE, MAE, etc.
