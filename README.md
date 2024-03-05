@@ -1,39 +1,28 @@
-# Prediction_of_AmountPaid_with_ML
-### Overview
-This project aims to predict the total bill amount for customers in a cafe based on various factors such as the amount paid for the bill, type of payment, customer age, and any additional information that can be useful. The dataset used for this project is fake, as it contains sensitive information such as passwords, card numbers, CVV numbers, blood type, etc, and cannot be used as valid information. By leveraging machine learning techniques, we can provide fake cafe owners with accurate predictions, helping them better manage their resources and plan for staffing and inventory.
+#  $${\color{blue}Prediction \space\ of \space\ AmountPaid \space\ with \space\ ML}$$
+## ${\color{Green}Overview}$
+This project aims **to predict the total bill amount** for customers in a cafe based on various factors such as the amount paid for the bill, type of payment, customer age, and any additional information that can be useful. The dataset used for this project is fake, as it contains sensitive information such as passwords, card numbers, CVV numbers, blood type, etc, and cannot be used as valid information. By leveraging machine learning techniques, we can provide fake cafe owners with accurate predictions, helping them better manage their resources and plan for staffing and inventory.
 The original dataset can be downloaded by using this link https://sds-platform-private.s3-us-east-2.amazonaws.com/uploads/P12-FakeNames.zip
 
-### Requirements
+## ${\color{Green}Requirements}$
 
 To run this project, we'll need:
 
-Python 3<br>
+**Python 3**<br>
 Required libraries listed as follows: <br> Pandas, <br>Numpy, <br>Matplotlib, <br>Keras, <br>Scikit Learn, <br>TensorFlow Decision Forest
 
-Visual Studio<br>
+**Visual Studio<br>
 SQL<br>
 Excel<br>
 Tableau<br>
 notepad++<br>
-Input Data on cafe transactions (included in this repository as "FakeNames_DRV_20240131_final") 
+Input Data on cafe transactions (included in this repository as "FakeNames_DRV_20240131_final")** 
 
-### Visual appearance
+## ${\color{Green}Visual \space\ appearance}$
+![FakeNames Dashboard](https://github.com/4ika211293/Prediction_of_AmountPaid_with_ML/assets/156179778/e5c2b965-3c0c-463e-adb1-a20e54ce77dc)
 
-![FakeNames_Dashboard](https://public.tableau.com/app/profile/chynara.bektursunova/viz/FakeNames_Dashboard/FakeNamesDashboard)
+FakeNames_20240131_ML.ipynb: This script contains the main functionality for **loading** the data, **preprocessing** it, **training** the **machine learning model**, and making **predictions**. This module also provides functions for cleaning and preprocessing the raw transaction data. Contains the machine learning model used for predicting the bill amount. This script evaluates the performance of the trained model using various metrics such as RMSE, MAE, etc.
 
-![AmountPaid_by_Age_group_and_gender](https://public.tableau.com/views/APFULL/AgeGroupAP?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-
-![AmountPaid_by_cities](https://public.tableau.com/shared/CJGKS3P25?:display_count=n&:origin=viz_share_link)
-
-
-
-
-
-### Usage
-
-FakeNames_20240131_ML.ipynb: This script contains the main functionality for loading the data, preprocessing it, training the machine learning model, and making predictions. This module also provides functions for cleaning and preprocessing the raw transaction data. Contains the machine learning model used for predicting the bill amount. This script evaluates the performance of the trained model using various metrics such as RMSE, MAE, etc.
-
-### Data
+## ${\color{Green}Data}$
 
 The data used in this project should contain information about cafe transactions, including:
 
@@ -85,9 +74,9 @@ A GUID-globally unique identifier, <br>
 Latitude-Latitude of location, <br>
 Longitude-Longitude of location
 
-### Future Improvements
+## ${\color{Green}Future \space\ Improvements}$
 Adding incorporate additional features such as income group, customer preferences, set of food ordered, etc., can improve the model
 
-### Contributors
-Chynara Bektursunova, linkedin profile: https://www.linkedin.com/in/chynara-bektursunova-8a5872188/ , 
-Ruslan Kurmanov, linkedin profile: https://www.linkedin.com/in/ruslan-kurmanov-4b9358146/
+## ${\color{Green}Contributors}$
+**Chynara Bektursunova**, linkedin profile: https://www.linkedin.com/in/chynara-bektursunova-8a5872188/ , 
+**Ruslan Kurmanov**, linkedin profile: https://www.linkedin.com/in/ruslan-kurmanov-4b9358146/
